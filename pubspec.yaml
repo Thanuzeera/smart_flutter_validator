@@ -1,10 +1,10 @@
 name: smart_flutter_validator
 description: A powerful and composable form validation package for Flutter.
 version: 1.0.0
-repository: https://github.com/your-username/smart_flutter_validator
-documentation: https://github.com/your-username/smart_flutter_validator#readme
-issue_tracker: https://github.com/your-username/smart_flutter_validator/issues
-homepage: https://github.com/your-username/smart_flutter_validator
+repository: https://github.com/Thanuzeera/smart_flutter_validator
+documentation: https://github.com/Thanuzeera/smart_flutter_validator#readme
+issue_tracker: https://github.com/Thanuzeera/smart_flutter_validator/issues
+homepage: https://github.com/Thanuzeera/smart_flutter_validator
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
